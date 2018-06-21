@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Professional-post-data-mining-analysis-practice-project", "Professional-post-data-mining-analysis-practice-project.pyproj", "{AC902216-2A87-44BF-BBC3-0651486366C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC902216-2A87-44BF-BBC3-0651486366C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC902216-2A87-44BF-BBC3-0651486366C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE4832A-F5D1-44E0-B16E-8352B2401B7B}
+	EndGlobalSection
+EndGlobal
